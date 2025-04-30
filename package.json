@@ -1,0 +1,14 @@
+{
+  "name": "gmail-auth-app",
+  "version": "1.0.0",
+  "description": "Webapp que autentica con Google y guarda la sesión en MongoDB",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
